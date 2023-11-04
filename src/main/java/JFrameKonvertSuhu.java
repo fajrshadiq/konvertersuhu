@@ -282,7 +282,7 @@ public class JFrameKonvertSuhu extends javax.swing.JFrame {
     }//GEN-LAST:event_jBResultActionPerformed
 
     private void rbCelciusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbCelciusActionPerformed
-
+        ///test commit
     }//GEN-LAST:event_rbCelciusActionPerformed
 
     private void SuhuAwalKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_SuhuAwalKeyTyped
