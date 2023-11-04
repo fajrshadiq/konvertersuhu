@@ -282,19 +282,7 @@ public class JFrameKonvertSuhu extends javax.swing.JFrame {
     }//GEN-LAST:event_jBResultActionPerformed
 
     private void rbCelciusActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_rbCelciusActionPerformed
-//         if(rbCelcius.isSelected()){
-//            celcius();
-//        }
-//        else if(rbFahreinheit.isSelected()){
-//            fahreinheit();
-//        }
-//        else if(rbKelvin.isSelected()){
-//            kelvin();
-//        }
-//        else if(rbReamur.isSelected()){
-//            reamur();
-//        }
-//         TODO add your handling code here:
+   
     }//GEN-LAST:event_rbCelciusActionPerformed
 
     private void SuhuAwalKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_SuhuAwalKeyTyped
